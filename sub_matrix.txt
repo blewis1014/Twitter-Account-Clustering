@@ -1,0 +1,14 @@
+                 sorry  election  covid19  app  christmas  song  details  ...  present  finish  blast  picture  led  green  jump
+BarackObama          0        44        3    0          0     0        0  ...        0       0      0        0    1      0     0
+justinbieber         0         0        0    1          1    12        1  ...        0       0      0        0    0      0     0
+katyperry            2         4        0    1          1     7        0  ...        1       0      0        0    0      0     0
+rihanna              0         0        1    0          0     2        1  ...        0       0      0        0    0      2     1
+realDonaldTrump      0         5        0    0          0     0        0  ...        0       0      0        0    0      0     0
+...                ...       ...      ...  ...        ...   ...      ...  ...      ...     ...    ...      ...  ...    ...   ...
+Respawn              0         0        0    0          1     0        1  ...        1       1      0        0    0      0     0
+Charmin              4         0        0    0          6     0        0  ...        0       0      1        1    0      1     0
+marshmellomusic      0         0        0    1          0     4        0  ...        2       1      0        1    0      0     1
+MerriamWebster       0         1        0    0          0     0        0  ...        0       0      0        0    1      0     0
+BaskinRobbins       67         0        0    0          0     0        0  ...        0       0      1        0    0      0     0
+
+[100 rows x 1000 columns]
